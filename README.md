@@ -106,14 +106,6 @@ Number 3 is chosen!
 
 ---
 
-## **Future Improvements**
-
-🔹 Add GUI visualization for real-time pathfinding.\
-🔹 Implement **A**\* Algorithm\*\* for improved efficiency over Dijkstra’s approach.\
-🔹 Optimize **hash table performance** for large-scale maps.
-
----
-
 ## **Author**
 
 👤 **Ethem Erinc Cengiz**
